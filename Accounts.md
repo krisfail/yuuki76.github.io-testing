@@ -82,8 +82,7 @@ Zcash:t1MViRBLjo4Ti3sMDtSMwVFGsergNdr2Sqb
 Monero:4B9ztHPP76J7dM6NhxL4ExfUdVRkyRgRC9rPN2mrXacWaY9PaT4u96GZiVPACFNnd7CgLyiypmA2TR8Zt8wLsRsETepGiU7  
 Loki:L8eWtZP6tYLLHyLeBgBcUQdi57KyZESuUSn3EDZLZucaFqphXepLJj49oJmEatfqkcP5w4RGiZcLzh7yiVQSkGVv7GXc5oQ  
 Cardano:DdzFFzCqrht2SiKwx7gRTj8sWbE9ARVhttXNsnnzP3zVwRKf6jDwu27onqvc9bGv8ALUam8CUH3Ckc2Z1YGnSrFW6BE4EiG4kGhWEjUX  
-Amazon:amazon.jp/hz/wishlist/ls/3F5PGKBJUIAEG?ref_=wl_share  
-DLsite,DMM,IFTTT,Pornhub,e-hentai,xvideos:非公開  
+Amazon:[欲しい物リスト](https://amazon.jp/hz/wishlist/ls/3F5PGKBJUIAEG)  
 Flightradar24:yuuki76at8A4MB,ADS-B:RJTY243  
 Flightaware:yuuki76  
 はてな:yuuki76  
