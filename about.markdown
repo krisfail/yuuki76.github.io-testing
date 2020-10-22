@@ -8,10 +8,10 @@ permalink: /about/
 
 kris57です。A-yuukiなんて名乗ってた時代もありました。
 
-<div></div><details><summary>ハンドルの由来</summary>  
+<details><summary>ハンドルの由来</summary>  
 kris57:fakerで適当に生成した名前+"素数"<br>
 A-yuuki:某ガチで死ぬVRMMO小説の登場人物
-</details></div>
+</details>
 
 
 都内住み学生  
